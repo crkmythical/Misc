@@ -1,0 +1,88 @@
+logo = true
+logoText = "Mr.Frame"
+logoType = "short" # long, short
+description = "Mr.Frame 's Personal Knowledge Website'."
+useFaviconGenerator = true # https://www.favicon-generator.org/
+
+# 启用在线编辑
+enableEditBtn = true
+editBaseURL = "https://github.com/crkmythical/Frame/tree/main/content"
+
+
+
+# 顶部栏
+enableNavbar = true
+enableSearch = true
+enableSearchHighlight = true
+enableDarkMode = true
+themeOptions = ["light", "dark"]
+enableLangChange = true
+github = "https://github.com/crkmythical"
+enableLandingBackground = false#true
+
+# DevSecOps & redTeam
+enableTocSwitch = true
+wideViewAsDefault = true # 右侧toc 折叠
+enableBreadcrumb = false
+enableMenu = true
+
+# Blog
+enableBlogBreadcrumb = true
+enableToc = true
+tocLevels = ["h2", "h3", "h4", "h5"]
+paginateWindow = 1 # 分页窗口
+taxoPaginate = 13  # 分类分页
+taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+
+
+# 底部信息
+enableFooter = true
+showPoweredBy = true
+
+
+# comment
+enableComment = false
+disqus_shortname = ""
+commento = false
+
+[gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+  clientId = ""           # Your client ID
+  clientSecret = ""       # Your client secret
+
+[utterances]       # https://utteranc.es/
+  owner = ""              # Your GitHub ID
+  repo = ""               # The repo to store comments
+
+[gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
+  owner = "crkmythical"              # Your GitHub ID
+  repo = "https://github.com/crkmythical/crkmythical.github.io"               # The repo to store comments
+  clientId = ""           # Your client ID
+  clientSecret = ""       # Your client secret
+
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+[valine]
+  enable = false
+  appId = '你的appId'
+  appKey = '你的appKey'
+  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  verify = false # Verification code
+  avatar = 'mm' 
+  placeholder = '说点什么吧...'
+  visitor = false
+
+[changyan]
+  changyanAppid = ""        # Changyan app id             # 畅言
+  changyanAppkey = ""       # Changyan app key
+
+[livere]
+  livereUID = ""            # LiveRe UID                  # 来必力
+
+# Isso: https://posativ.org/isso/
+[isso]
+  enable = false
+  scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
+  dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
