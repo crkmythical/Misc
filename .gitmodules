@@ -1,0 +1,57 @@
+[submodule "secTools/Browser/hackbar_for_chrome"]
+	path = secTools/Browser/hackbar_for_chrome
+	url = https://github.com/0140454/hackbar
+[submodule "secTools/Browser/hackbar_for_firefox"]
+	path = secTools/Browser/hackbar_for_firefox
+	url = https://github.com/PhHitachi/HackBar
+[submodule "secTools/Browser/h4ck3r"]
+	path = secTools/Browser/h4ck3r
+	url = https://github.com/4nkitd/h4ck3r
+[submodule "secTools/Browser/Hack-Tools"]
+	path = secTools/Browser/Hack-Tools
+	url = https://github.com/LasCC/Hack-Tools
+[submodule "secTools/Burpsuite/HackBar"]
+	path = secTools/Burpsuite/HackBar
+	url = https://github.com/d3vilbug/HackBar.git
+[submodule "secTools/Burpsuite/knife"]
+	path = secTools/Burpsuite/knife
+	url = https://github.com/bit4woo/knife.git
+[submodule "secTools/Burpsuite/domain_hunter_pro"]
+	path = secTools/Burpsuite/domain_hunter_pro
+	url = https://github.com/bit4woo/domain_hunter_pro.git
+[submodule "secTools/Burpsuite/Fiora"]
+	path = secTools/Burpsuite/Fiora
+	url = https://github.com/bit4woo/Fiora.git
+[submodule "secTools/Burpsuite/burp-dev/burp-api"]
+	path = secTools/Burpsuite/burp-dev/burp-api
+	url = https://github.com/bit4woo/burp-api-drops.git
+[submodule "secTools/Burpsuite/burp-dev/burp-api-common"]
+	path = secTools/Burpsuite/burp-dev/burp-api-common
+	url = https://github.com/bit4woo/burp-api-common.git
+[submodule "secTools/Burpsuite/copy-as-python-requests"]
+	path = secTools/Burpsuite/copy-as-python-requests
+	url = https://github.com/bit4woo/copy-as-python-requests.git
+[submodule "DevEnv/ip2region"]
+	path = DevEnv/ip2region
+	url = https://github.com/lionsoul2014/ip2region.git
+[submodule "secTools/Recon/HostCollision"]
+	path = secTools/Recon/HostCollision
+	url = https://github.com/pmiaowu/HostCollision.git
+[submodule "secTools/Payload/PayloadsAllTheThings"]
+	path = secTools/Payload/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "secTools/Burpsuite/HUNT"]
+	path = secTools/Burpsuite/HUNT
+	url = https://github.com/bugcrowd/HUNT.git
+[submodule "secTools/Burpsuite/BurpBounty"]
+	path = secTools/Burpsuite/BurpBounty
+	url = https://github.com/wagiro/BurpBounty.git
+[submodule "secTools/Burpsuite/HaE"]
+	path = secTools/Burpsuite/HaE
+	url = https://github.com/gh0stkey/HaE.git
+[submodule "secTools/Payload/Web-Fuzzing-Box"]
+	path = secTools/Payload/Web-Fuzzing-Box
+	url = https://github.com/gh0stkey/Web-Fuzzing-Box.git
+[submodule "secTools/Burpsuite/myscan"]
+	path = secTools/Burpsuite/myscan
+	url = https://github.com/amcai/myscan.git
