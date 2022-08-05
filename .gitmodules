@@ -328,3 +328,42 @@
 [submodule "secTools/tips/one_liner"]
 	path = secTools/tips/one_liner
 	url = https://github.com/harshinsecurity/one_liner.git
+[submodule "AutoTools/webSerivceAutomation/webhook/webhook"]
+	path = AutoTools/webSerivceAutomation/webhook/webhook
+	url = https://github.com/adnanh/webhook.git
+[submodule "AutoTools/webSerivceAutomation/webhook/webhook.site"]
+	path = AutoTools/webSerivceAutomation/webhook/webhook.site
+	url = https://github.com/webhooksite/webhook.site.git
+[submodule "AutoTools/webSerivceAutomation/webhook/webhookd"]
+	path = AutoTools/webSerivceAutomation/webhook/webhookd
+	url = https://github.com/ncarlier/webhookd.git
+[submodule "AutoTools/webSerivceAutomation/webhook/hooka"]
+	path = AutoTools/webSerivceAutomation/webhook/hooka
+	url = https://github.com/danistefanovic/hooka.git
+[submodule "AutoTools/reverseProxy/pyngrok"]
+	path = AutoTools/reverseProxy/pyngrok
+	url = https://github.com/alexdlaird/pyngrok.git
+[submodule "AutoTools/reverseProxy/ngrok"]
+	path = AutoTools/reverseProxy/ngrok
+	url = https://github.com/bubenshchykov/ngrok.git
+[submodule "AutoTools/notify/SmsForwarder"]
+	path = AutoTools/notify/SmsForwarder
+	url = https://github.com/pppscn/SmsForwarder.git
+[submodule "AutoTools/notify/notify"]
+	path = AutoTools/notify/notify
+	url = https://github.com/guanguans/notify.git
+[submodule "AutoTools/notify/CS-ServerChan"]
+	path = AutoTools/notify/CS-ServerChan
+	url = https://github.com/lintstar/CS-ServerChan.git
+[submodule "AutoTools/notify/rust-slack"]
+	path = AutoTools/notify/rust-slack
+	url = https://github.com/frostly/rust-slack.git
+[submodule "AutoTools/webSerivceAutomation/serverchan-spring-boot-starter"]
+	path = AutoTools/webSerivceAutomation/serverchan-spring-boot-starter
+	url = https://github.com/wyulong/serverchan-spring-boot-starter.git
+[submodule "AutoTools/notify/fail2ban-server-chan"]
+	path = AutoTools/notify/fail2ban-server-chan
+	url = https://github.com/LittleJake/fail2ban-server-chan.git
+[submodule "AutoTools/notify/Email2Push"]
+	path = AutoTools/notify/Email2Push
+	url = https://github.com/weimingqing/Email2Push.git
