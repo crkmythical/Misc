@@ -55,3 +55,276 @@
 [submodule "secTools/Burpsuite/myscan"]
 	path = secTools/Burpsuite/myscan
 	url = https://github.com/amcai/myscan.git
+[submodule "secTools/Burpsuite/passive-scan-client"]
+	path = secTools/Burpsuite/passive-scan-client
+	url = https://github.com/c0ny1/passive-scan-client.git
+[submodule "secTools/Burpsuite/jsEncrypter"]
+	path = secTools/Burpsuite/jsEncrypter
+	url = https://github.com/c0ny1/jsEncrypter.git
+[submodule "secTools/Burpsuite/captcha-killer"]
+	path = secTools/Burpsuite/captcha-killer
+	url = https://github.com/c0ny1/captcha-killer.git
+[submodule "secTools/Burpsuite/chunked-coding-converter"]
+	path = secTools/Burpsuite/chunked-coding-converter
+	url = https://github.com/c0ny1/chunked-coding-converter.git
+[submodule "secTools/Burpsuite/captcha-killer-5h6m"]
+	path = secTools/Burpsuite/captcha-killer-5h6m
+	url = https://github.com/33time/captcha-killer-5h6m.git
+[submodule "secTools/Burpsuite/BurpDecoder"]
+	path = secTools/Burpsuite/BurpDecoder
+	url = https://github.com/bailsong/BurpDecoder.git
+[submodule "secTools/Burpsuite/autoDecoder"]
+	path = secTools/Burpsuite/autoDecoder
+	url = https://github.com/f0ng/autoDecoder.git
+[submodule "secTools/Burpsuite/Burp4dirsearch"]
+	path = secTools/Burpsuite/Burp4dirsearch
+	url = https://github.com/retnullyu/Burp4dirsearch.git
+[submodule "secTools/Burpsuite/BurpExtend"]
+	path = secTools/Burpsuite/BurpExtend
+	url = https://github.com/dongfangyuxiao/BurpExtend.git
+[submodule "secTools/Burpsuite/burp-log4shell"]
+	path = secTools/Burpsuite/burp-log4shell
+	url = https://github.com/silentsignal/burp-log4shell.git
+[submodule "secTools/Burpsuite/Pentest-Mapper"]
+	path = secTools/Burpsuite/Pentest-Mapper
+	url = https://github.com/Anof-cyber/Pentest-Mapper.git
+[submodule "secTools/Burpsuite/BFAC-Burp-Extension"]
+	path = secTools/Burpsuite/BFAC-Burp-Extension
+	url = https://github.com/sec-it/BFAC-Burp-Extension.git
+[submodule "secTools/Burpsuite/burp-weblogic-scanner"]
+	path = secTools/Burpsuite/burp-weblogic-scanner
+	url = https://github.com/zrquan/burp-weblogic-scanner.git
+[submodule "secTools/Burpsuite/ASScan"]
+	path = secTools/Burpsuite/ASScan
+	url = https://github.com/langu-xyz/ASScan.git
+[submodule "secTools/Burpsuite/SRePlay"]
+	path = secTools/Burpsuite/SRePlay
+	url = https://github.com/Ebryx/SRePlay.git
+[submodule "secTools/Burpsuite/copy-as-powershell-requests"]
+	path = secTools/Burpsuite/copy-as-powershell-requests
+	url = https://github.com/aress31/copy-as-powershell-requests.git
+[submodule "secTools/Payload/top-burpsuite-plugins-extensions"]
+	path = secTools/Payload/top-burpsuite-plugins-extensions
+	url = https://github.com/Elsfa7-110/top-burpsuite-plugins-extensions.git
+[submodule "secTools/Burpsuite/burp-dev/burpsuitePlugin"]
+	path = secTools/Burpsuite/burp-dev/burpsuitePlugin
+	url = https://github.com/helloexp/burpsuitePlugin.git
+[submodule "secTools/Burpsuite/Resource/portswigger-websecurity-academy"]
+	path = secTools/Burpsuite/Resource/portswigger-websecurity-academy
+	url = https://github.com/frank-leitner/portswigger-websecurity-academy.git
+[submodule "secTools/Burpsuite/AutoMacroBuilder"]
+	path = secTools/Burpsuite/AutoMacroBuilder
+	url = https://github.com/gdgd009xcd/AutoMacroBuilder.git
+[submodule "secTools/Burpsuite/Postman-Pat"]
+	path = secTools/Burpsuite/Postman-Pat
+	url = https://github.com/b4dpxl/Postman-Pat.git
+[submodule "secTools/Burpsuite/CustomCrypto"]
+	path = secTools/Burpsuite/CustomCrypto
+	url = https://github.com/dreamncn/CustomCrypto.git
+[submodule "secTools/Burpsuite/burp-file-writer-extension"]
+	path = secTools/Burpsuite/burp-file-writer-extension
+	url = https://github.com/arturssmirnovs/burp-file-writer-extension.git
+[submodule "secTools/Burpsuite/aws-sigv4"]
+	path = secTools/Burpsuite/aws-sigv4
+	url = https://github.com/leolashkevych/aws-sigv4.git
+[submodule "secTools/Burpsuite/Copy-as-JavaScript-Request"]
+	path = secTools/Burpsuite/Copy-as-JavaScript-Request
+	url = https://github.com/celsogbezerra/Copy-as-JavaScript-Request.git
+[submodule "secTools/Burpsuite/BurpSuite-Docker-Image"]
+	path = secTools/Burpsuite/BurpSuite-Docker-Image
+	url = https://github.com/f4T1H21/BurpSuite-Docker-Image.git
+[submodule "secTools/Burpsuite/BurpSuite"]
+	path = secTools/Burpsuite/BurpSuite
+	url = https://github.com/juniinacio/BurpSuite.git
+[submodule "secTools/Burpsuite/auto-ysoserial"]
+	path = secTools/Burpsuite/auto-ysoserial
+	url = https://github.com/rsrdesarrollo/auto-ysoserial.git
+[submodule "secTools/Burpsuite/Evaluator"]
+	path = secTools/Burpsuite/Evaluator
+	url = https://github.com/b4dpxl/Evaluator.git
+[submodule "secTools/Burpsuite/Burp_Fuzzing_Extension"]
+	path = secTools/Burpsuite/Burp_Fuzzing_Extension
+	url = https://github.com/zeuscybersec/Burp_Fuzzing_Extension.git
+[submodule "secTools/Burpsuite/Extensions-for-BurpSuite"]
+	path = secTools/Burpsuite/Extensions-for-BurpSuite
+	url = https://github.com/wickywanka/Extensions-for-BurpSuite.git
+[submodule "secTools/Burpsuite/burp_xss_restriction_bypass_checker"]
+	path = secTools/Burpsuite/burp_xss_restriction_bypass_checker
+	url = https://github.com/whoishacked/burp_xss_restriction_bypass_checker.git
+[submodule "secTools/Burpsuite/AES-Killer"]
+	path = secTools/Burpsuite/AES-Killer
+	url = https://github.com/Ebryx/AES-Killer.git
+[submodule "secTools/Burpsuite/Copy-As-C"]
+	path = secTools/Burpsuite/Copy-As-C
+	url = https://github.com/Blakley/Copy-As-C.git
+[submodule "secTools/Burpsuite/sqlmap4burp-plus-plus"]
+	path = secTools/Burpsuite/sqlmap4burp-plus-plus
+	url = https://github.com/c0ny1/sqlmap4burp-plus-plus.git
+[submodule "secTools/Browser/burptoggle"]
+	path = secTools/Browser/burptoggle
+	url = https://github.com/ZishanAdThandar/burptoggle.git
+[submodule "secTools/Burpsuite/inql"]
+	path = secTools/Burpsuite/inql
+	url = https://github.com/doyensec/inql.git
+[submodule "secTools/Burpsuite/log4j2burpscanner"]
+	path = secTools/Burpsuite/log4j2burpscanner
+	url = https://github.com/f0ng/log4j2burpscanner.git
+[submodule "secTools/Burpsuite/burp-dev/APIKit"]
+	path = secTools/Burpsuite/burp-dev/APIKit
+	url = https://github.com/API-Security/APIKit.git
+[submodule "secTools/Burpsuite/captcha-killer-modified"]
+	path = secTools/Burpsuite/captcha-killer-modified
+	url = https://github.com/f0ng/captcha-killer-modified.git
+[submodule "secTools/Burpsuite/Struts2-RCE"]
+	path = secTools/Burpsuite/Struts2-RCE
+	url = https://github.com/prakharathreya/Struts2-RCE.git
+[submodule "secTools/Burpsuite/agartha"]
+	path = secTools/Burpsuite/agartha
+	url = https://github.com/volkandindar/agartha.git
+[submodule "secTools/Burpsuite/SQLi-Query-Tampering"]
+	path = secTools/Burpsuite/SQLi-Query-Tampering
+	url = https://github.com/xer0days/SQLi-Query-Tampering.git
+[submodule "secTools/Burpsuite/auth_analyzer"]
+	path = secTools/Burpsuite/auth_analyzer
+	url = https://github.com/simioni87/auth_analyzer.git
+[submodule "secTools/Burpsuite/burp-shell-fwd-lfi"]
+	path = secTools/Burpsuite/burp-shell-fwd-lfi
+	url = https://github.com/gnothiseautonlw/burp-shell-fwd-lfi.git
+[submodule "secTools/Burpsuite/lazyCSRF"]
+	path = secTools/Burpsuite/lazyCSRF
+	url = https://github.com/tkmru/lazyCSRF.git
+[submodule "secTools/Burpsuite/BurpLoaderKeygen"]
+	path = secTools/Burpsuite/BurpLoaderKeygen
+	url = https://github.com/h3110w0r1d-y/BurpLoaderKeygen.git
+[submodule "secTools/Burpsuite/BurpCrypto"]
+	path = secTools/Burpsuite/BurpCrypto
+	url = https://github.com/whwlsfb/BurpCrypto.git
+[submodule "secTools/Burpsuite/BurpSuiteHTTPSmuggler"]
+	path = secTools/Burpsuite/BurpSuiteHTTPSmuggler
+	url = https://github.com/nccgroup/BurpSuiteHTTPSmuggler.git
+[submodule "secTools/Burpsuite/IPRotate_Burp_Extension"]
+	path = secTools/Burpsuite/IPRotate_Burp_Extension
+	url = https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension.git
+[submodule "secTools/Burpsuite/Autorize"]
+	path = secTools/Burpsuite/Autorize
+	url = https://github.com/Quitten/Autorize.git
+[submodule "secTools/Burpsuite/burpa"]
+	path = secTools/Burpsuite/burpa
+	url = https://github.com/0x4D31/burpa.git
+[submodule "secTools/Burpsuite/Resource/Commodity-Injection-Signatures"]
+	path = secTools/Burpsuite/Resource/Commodity-Injection-Signatures
+	url = https://github.com/xsscx/Commodity-Injection-Signatures.git
+[submodule "secTools/Burpsuite/Resource/burpdeveltraining"]
+	path = secTools/Burpsuite/Resource/burpdeveltraining
+	url = https://github.com/doyensec/burpdeveltraining.git
+[submodule "secTools/Burpsuite/BurpSuiteCn"]
+	path = secTools/Burpsuite/BurpSuiteCn
+	url = https://github.com/funkyoummp/BurpSuiteCn.git
+[submodule "secTools/Burpsuite/off-by-slash"]
+	path = secTools/Burpsuite/off-by-slash
+	url = https://github.com/bayotop/off-by-slash.git
+[submodule "secTools/Burpsuite/webtech"]
+	path = secTools/Burpsuite/webtech
+	url = https://github.com/ShielderSec/webtech.git
+[submodule "secTools/Burpsuite/Burpy"]
+	path = secTools/Burpsuite/Burpy
+	url = https://github.com/mr-m0nst3r/Burpy.git
+[submodule "secTools/Burpsuite/BurpSuite-Xkeys"]
+	path = secTools/Burpsuite/BurpSuite-Xkeys
+	url = https://github.com/vsec7/BurpSuite-Xkeys.git
+[submodule "secTools/Burpsuite/burp-unauth-checker"]
+	path = secTools/Burpsuite/burp-unauth-checker
+	url = https://github.com/theLSA/burp-unauth-checker.git
+[submodule "secTools/Burpsuite/burp-exporter"]
+	path = secTools/Burpsuite/burp-exporter
+	url = https://github.com/artssec/burp-exporter.git
+[submodule "secTools/Burpsuite/JustC2file"]
+	path = secTools/Burpsuite/JustC2file
+	url = https://github.com/Peithon/JustC2file.git
+[submodule "secTools/Burpsuite/burpa-1"]
+	path = secTools/Burpsuite/burpa-1
+	url = https://github.com/tristanlatr/burpa.git
+[submodule "secTools/Burpsuite/swurg"]
+	path = secTools/Burpsuite/swurg
+	url = https://github.com/aress31/swurg.git
+[submodule "secTools/Burpsuite/burp-bounty-profiles"]
+	path = secTools/Burpsuite/burp-bounty-profiles
+	url = https://github.com/six2dez/burp-bounty-profiles.git
+[submodule "secTools/Burpsuite/Resource/BugBounty"]
+	path = secTools/Burpsuite/Resource/BugBounty
+	url = https://github.com/xer0days/BugBounty.git
+[submodule "secTools/Burpsuite/privatecollaborator"]
+	path = secTools/Burpsuite/privatecollaborator
+	url = https://github.com/putsi/privatecollaborator.git
+[submodule "secTools/Burpsuite/Admin-Panel_Finder"]
+	path = secTools/Burpsuite/Admin-Panel_Finder
+	url = https://github.com/moeinfatehi/Admin-Panel_Finder.git
+[submodule "secTools/Burpsuite/Resource/burp-bounty"]
+	path = secTools/Burpsuite/Resource/burp-bounty
+	url = https://github.com/Sy3Omda/burp-bounty.git
+[submodule "secTools/Burpsuite/BypassSuper"]
+	path = secTools/Burpsuite/BypassSuper
+	url = https://github.com/SummerSec/BypassSuper.git
+[submodule "secTools/Burpsuite/Backup-Finder"]
+	path = secTools/Burpsuite/Backup-Finder
+	url = https://github.com/moeinfatehi/Backup-Finder.git
+[submodule "secTools/Burpsuite/cstc"]
+	path = secTools/Burpsuite/cstc
+	url = https://github.com/usdAG/cstc.git
+[submodule "secTools/Burpsuite/burp_data_collector"]
+	path = secTools/Burpsuite/burp_data_collector
+	url = https://github.com/QdghJ/burp_data_collector.git
+[submodule "secTools/Burpsuite/burp-awesome-tls"]
+	path = secTools/Burpsuite/burp-awesome-tls
+	url = https://github.com/sleeyax/burp-awesome-tls.git
+[submodule "secTools/VunlerableHub/VulnerableApp"]
+	path = secTools/VunlerableHub/VulnerableApp
+	url = https://github.com/SasanLabs/VulnerableApp.git
+[submodule "secTools/Burpsuite/Resource/BBProfiles"]
+	path = secTools/Burpsuite/Resource/BBProfiles
+	url = https://github.com/ghsec/BBProfiles.git
+[submodule "secTools/Payload/SecLists"]
+	path = secTools/Payload/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "secTools/Burpsuite/Un1kFiles"]
+	path = secTools/Burpsuite/Un1kFiles
+	url = https://github.com/h4ckdepy/Un1kFiles.git
+[submodule "secTools/Burpsuite/burp-suite-software-version-checks"]
+	path = secTools/Burpsuite/burp-suite-software-version-checks
+	url = https://github.com/augustd/burp-suite-software-version-checks.git
+[submodule "secTools/Burpsuite/burpsuite-copy-as-xmlhttprequest"]
+	path = secTools/Burpsuite/burpsuite-copy-as-xmlhttprequest
+	url = https://github.com/vulnbe/burpsuite-copy-as-xmlhttprequest.git
+[submodule "secTools/Burpsuite/poi-slinger"]
+	path = secTools/Burpsuite/poi-slinger
+	url = https://github.com/ricardojba/poi-slinger.git
+[submodule "secTools/Burpsuite/csrf-poc-creator"]
+	path = secTools/Burpsuite/csrf-poc-creator
+	url = https://github.com/rammarj/csrf-poc-creator.git
+[submodule "secTools/Burpsuite/burp-dev/burp-suite-utils"]
+	path = secTools/Burpsuite/burp-dev/burp-suite-utils
+	url = https://github.com/augustd/burp-suite-utils.git
+[submodule "secTools/Burpsuite/Resource/Burpsuite-Plugins-Usage"]
+	path = secTools/Burpsuite/Resource/Burpsuite-Plugins-Usage
+	url = https://github.com/lilifengcode/Burpsuite-Plugins-Usage.git
+[submodule "secTools/Burpsuite/googleauthenticator"]
+	path = secTools/Burpsuite/googleauthenticator
+	url = https://github.com/aress31/googleauthenticator.git
+[submodule "secTools/Burpsuite/private-ip-scan"]
+	path = secTools/Burpsuite/private-ip-scan
+	url = https://github.com/Sma11New/private-ip-scan.git
+[submodule "secTools/Burpsuite/FuckAnywhere"]
+	path = secTools/Burpsuite/FuckAnywhere
+	url = https://github.com/gh0stkey/FuckAnywhere.git
+[submodule "secTools/awesome-list/awesome-cybersec"]
+	path = secTools/awesome-list/awesome-cybersec
+	url = https://github.com/theredditbandit/awesome-cybersec.git
+[submodule "secTools/awesome-list/awesome-hacking-lists"]
+	path = secTools/awesome-list/awesome-hacking-lists
+	url = https://github.com/taielab/awesome-hacking-lists.git
+[submodule "secTools/Burpsuite/Burp-ConvisoPlatform"]
+	path = secTools/Burpsuite/Burp-ConvisoPlatform
+	url = https://github.com/convisolabs/Burp-ConvisoPlatform.git
+[submodule "secTools/tips/one_liner"]
+	path = secTools/tips/one_liner
+	url = https://github.com/harshinsecurity/one_liner.git
