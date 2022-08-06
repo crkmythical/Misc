@@ -367,3 +367,30 @@
 [submodule "AutoTools/notify/Email2Push"]
 	path = AutoTools/notify/Email2Push
 	url = https://github.com/weimingqing/Email2Push.git
+[submodule "AutoTools/webSerivceAutomation/huginn"]
+	path = AutoTools/webSerivceAutomation/huginn
+	url = https://github.com/huginn/huginn.git
+[submodule "AutoTools/webSerivceAutomation/n8n"]
+	path = AutoTools/webSerivceAutomation/n8n
+	url = https://github.com/n8n-io/n8n.git
+[submodule "secTools/AST_tools/MySQLMonitor"]
+	path = secTools/AST_tools/MySQLMonitor
+	url = https://github.com/fupinglee/MySQLMonitor.git
+[submodule "secTools/Evasion/GoBypassAV"]
+	path = secTools/Evasion/GoBypassAV
+	url = https://github.com/TideSec/GoBypassAV.git
+[submodule "secTools/Burpsuite/ShiroScan"]
+	path = secTools/Burpsuite/ShiroScan
+	url = https://github.com/Daybr4ak/ShiroScan
+[submodule "secTools/Burpsuite/BurpShiroPassiveScan"]
+	path = secTools/Burpsuite/BurpShiroPassiveScan
+	url = https://github.com/pmiaowu/BurpShiroPassiveScan.git
+[submodule "secTools/Burpsuite/Log4J-Scanner"]
+	path = secTools/Burpsuite/Log4J-Scanner
+	url = https://github.com/0xDexter0us/Log4J-Scanner.git
+[submodule "secTools/Burpsuite/Log4j2Scan"]
+	path = secTools/Burpsuite/Log4j2Scan
+	url = https://github.com/whwlsfb/Log4j2Scan.git
+[submodule "secTools/Burpsuite/log4j-Scan-Burpsuite"]
+	path = secTools/Burpsuite/log4j-Scan-Burpsuite
+	url = https://github.com/snow0715/log4j-Scan-Burpsuite.git
