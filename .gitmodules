@@ -394,3 +394,66 @@
 [submodule "secTools/Burpsuite/log4j-Scan-Burpsuite"]
 	path = secTools/Burpsuite/log4j-Scan-Burpsuite
 	url = https://github.com/snow0715/log4j-Scan-Burpsuite.git
+[submodule "secTools/Burpsuite/APIKit"]
+	path = secTools/Burpsuite/APIKit
+	url = https://github.com/API-Security/APIKit.git
+[submodule "AutoTools/bot/knary"]
+	path = AutoTools/bot/knary
+	url = https://github.com/sudosammy/knary.git
+[submodule "AutoTools/bot/lark-bot-shell"]
+	path = AutoTools/bot/lark-bot-shell
+	url = https://github.com/springhack/lark-bot-shell.git
+[submodule "AutoTools/bot/chatopera.feishu"]
+	path = AutoTools/bot/chatopera.feishu
+	url = https://github.com/chatopera/chatopera.feishu.git
+[submodule "AutoTools/bot/alarm-bot"]
+	path = AutoTools/bot/alarm-bot
+	url = https://github.com/zzq0324/alarm-bot.git
+[submodule "AutoTools/bot/node-telegram-bot-api"]
+	path = AutoTools/bot/node-telegram-bot-api
+	url = https://github.com/yagop/node-telegram-bot-api.git
+[submodule "AutoTools/bot/java-telegram-bot-tutorial"]
+	path = AutoTools/bot/java-telegram-bot-tutorial
+	url = https://github.com/MonsterDeveloper/java-telegram-bot-tutorial.git
+[submodule "AutoTools/bot/lark"]
+	path = AutoTools/bot/lark
+	url = https://github.com/chyroc/lark.git
+[submodule "AutoTools/bot/python-telegram-bot"]
+	path = AutoTools/bot/python-telegram-bot
+	url = https://github.com/python-telegram-bot/python-telegram-bot.git
+[submodule "secTools/Burpsuite/BurpFastJsonScan"]
+	path = secTools/Burpsuite/BurpFastJsonScan
+	url = https://github.com/pmiaowu/BurpFastJsonScan.git
+[submodule "secTools/Burpsuite/FastjsonScan"]
+	path = secTools/Burpsuite/FastjsonScan
+	url = https://github.com/Maskhe/FastjsonScan.git
+[submodule "secTools/Burpsuite/FastjsonScanWithBurp"]
+	path = secTools/Burpsuite/FastjsonScanWithBurp
+	url = https://github.com/Kyo-w/FastjsonScanWithBurp.git
+[submodule "secTools/Burpsuite/log4j2Scan"]
+	path = secTools/Burpsuite/log4j2Scan
+	url = https://github.com/pmiaowu/log4j2Scan.git
+[submodule "secTools/Burpsuite/BurpReflectiveXssMiao"]
+	path = secTools/Burpsuite/BurpReflectiveXssMiao
+	url = https://github.com/pmiaowu/BurpReflectiveXssMiao.git
+[submodule "secTools/Browser/x-forwarded-for"]
+	path = secTools/Browser/x-forwarded-for
+	url = https://github.com/MisterPhilip/x-forwarded-for.git
+[submodule "secTools/Browser/FindSomething"]
+	path = secTools/Browser/FindSomething
+	url = https://github.com/momosecurity/FindSomething.git
+[submodule "secTools/Browser/HackBrowserData"]
+	path = secTools/Browser/HackBrowserData
+	url = https://github.com/moonD4rk/HackBrowserData.git
+[submodule "secTools/Browser/RSSHub-Radar"]
+	path = secTools/Browser/RSSHub-Radar
+	url = https://github.com/DIYgod/RSSHub-Radar.git
+[submodule "secTools/Browser/awesome-browser-extensions-for-github"]
+	path = secTools/Browser/awesome-browser-extensions-for-github
+	url = https://github.com/stefanbuck/awesome-browser-extensions-for-github.git
+[submodule "secTools/Burpsuite/burpsuite-oauth2.0"]
+	path = secTools/Burpsuite/burpsuite-oauth2.0
+	url = https://github.com/matiassequeira/burpsuite-oauth2.0.git
+[submodule "secTools/Browser/uBlock"]
+	path = secTools/Browser/uBlock
+	url = https://github.com/gorhill/uBlock.git
