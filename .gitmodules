@@ -457,3 +457,12 @@
 [submodule "secTools/Browser/uBlock"]
 	path = secTools/Browser/uBlock
 	url = https://github.com/gorhill/uBlock.git
+[submodule "secTools/Browser/antiHoneypot_chrome"]
+	path = secTools/Browser/antiHoneypot_chrome
+	url = https://github.com/Monyer/antiHoneypot.git
+[submodule "secTools/xssfinder"]
+	path = secTools/xssfinder
+	url = https://github.com/Buzz2d0/xssfinder.git
+[submodule "secTools/Burpsuite/BurpSuiteSharpener"]
+	path = secTools/Burpsuite/BurpSuiteSharpener
+	url = https://github.com/mdsecresearch/BurpSuiteSharpener.git
