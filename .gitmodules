@@ -466,3 +466,12 @@
 [submodule "secTools/Burpsuite/BurpSuiteSharpener"]
 	path = secTools/Burpsuite/BurpSuiteSharpener
 	url = https://github.com/mdsecresearch/BurpSuiteSharpener.git
+[submodule "secTools/Burpsuite/S4S-Scanner"]
+	path = secTools/Burpsuite/S4S-Scanner
+	url = https://github.com/onurgule/S4S-Scanner.git
+[submodule "secTools/Burpsuite/Spring4Shell"]
+	path = secTools/Burpsuite/Spring4Shell
+	url = https://github.com/coffeehb/Spring4Shell.git
+[submodule "secTools/Browser/firelomo"]
+	path = secTools/Browser/firelomo
+	url = https://github.com/7sDream/firelomo.git
