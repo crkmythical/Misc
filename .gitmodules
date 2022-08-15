@@ -475,3 +475,45 @@
 [submodule "secTools/Browser/firelomo"]
 	path = secTools/Browser/firelomo
 	url = https://github.com/7sDream/firelomo.git
+[submodule "secTools/Browser/ext-saladict"]
+	path = secTools/Browser/ext-saladict
+	url = https://github.com/crimx/ext-saladict.git
+[submodule "secTools/Browser/simpread"]
+	path = secTools/Browser/simpread
+	url = https://github.com/Kenshin/simpread.git
+[submodule "secTools/Browser/retire.js"]
+	path = secTools/Browser/retire.js
+	url = https://github.com/RetireJS/retire.js.git
+[submodule "secTools/Browser/FeHelper"]
+	path = secTools/Browser/FeHelper
+	url = https://github.com/zxlie/FeHelper.git
+[submodule "secTools/Browser/markdownload"]
+	path = secTools/Browser/markdownload
+	url = https://github.com/deathau/markdownload.git
+[submodule "secTools/Browser/Ctool"]
+	path = secTools/Browser/Ctool
+	url = https://github.com/baiy/Ctool
+[submodule "secTools/Browser/SingleFile"]
+	path = secTools/Browser/SingleFile
+	url = https://github.com/gildas-lormeau/SingleFile.git
+[submodule "secTools/Browser/daily"]
+	path = secTools/Browser/daily
+	url = https://github.com/dailydotdev/daily.git
+[submodule "secTools/Browser/omni"]
+	path = secTools/Browser/omni
+	url = https://github.com/alyssaxuu/omni.git
+[submodule "secTools/Browser/batnoter"]
+	path = secTools/Browser/batnoter
+	url = https://github.com/batnoter/batnoter.git
+[submodule "secTools/Browser/Authenticator"]
+	path = secTools/Browser/Authenticator
+	url = https://github.com/Authenticator-Extension/Authenticator.git
+[submodule "secTools/Browser/Gitako"]
+	path = secTools/Browser/Gitako
+	url = https://github.com/EnixCoda/Gitako.git
+[submodule "secTools/Browser/floccus"]
+	path = secTools/Browser/floccus
+	url = https://github.com/floccusaddon/floccus.git
+[submodule "secTools/Browser/Memex"]
+	path = secTools/Browser/Memex
+	url = https://github.com/WorldBrain/Memex.git
