@@ -517,3 +517,33 @@
 [submodule "secTools/Browser/Memex"]
 	path = secTools/Browser/Memex
 	url = https://github.com/WorldBrain/Memex.git
+[submodule "secTools/AST_tools/MysqlMonitor"]
+	path = secTools/AST_tools/MysqlMonitor
+	url = https://github.com/0clickjacking0/MysqlMonitor.git
+[submodule "secTools/AST_tools/MysqlMonitor_shell"]
+	path = secTools/AST_tools/MysqlMonitor_shell
+	url = https://github.com/0clickjacking0/MysqlMonitor.git
+[submodule "secTools/AST_tools/FileMonitor"]
+	path = secTools/AST_tools/FileMonitor
+	url = https://github.com/TheKingOfDuck/FileMonitor.git
+[submodule "secTools/Burpsuite/burpFakeIP"]
+	path = secTools/Burpsuite/burpFakeIP
+	url = https://github.com/TheKingOfDuck/burpFakeIP.git
+[submodule "secTools/AST_tools/MySQLMonitor_go"]
+	path = secTools/AST_tools/MySQLMonitor_go
+	url = https://github.com/Buzz2d0/MySQLMonitor.git
+[submodule "secTools/AST_tools/MySQLMonitor_gui"]
+	path = secTools/AST_tools/MySQLMonitor_gui
+	url = https://github.com/fupinglee/MySQLMonitor.git
+[submodule "secTools/AST_tools/IDEA/momo-code-sec-inspector-java"]
+	path = secTools/AST_tools/IDEA/momo-code-sec-inspector-java
+	url = https://github.com/momosecurity/momo-code-sec-inspector-java.git
+[submodule "secTools/AST_tools/ysoserial"]
+	path = secTools/AST_tools/ysoserial
+	url = https://github.com/frohoff/ysoserial.git
+[submodule "secTools/RequestTemplate"]
+	path = secTools/RequestTemplate
+	url = https://github.com/1n7erface/RequestTemplate.git
+[submodule "secTools/CaptfEncoder"]
+	path = secTools/CaptfEncoder
+	url = https://github.com/guyoung/CaptfEncoder.git
