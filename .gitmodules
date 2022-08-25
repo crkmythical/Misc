@@ -520,9 +520,6 @@
 [submodule "secTools/AST_tools/MysqlMonitor"]
 	path = secTools/AST_tools/MysqlMonitor
 	url = https://github.com/0clickjacking0/MysqlMonitor.git
-[submodule "secTools/AST_tools/MysqlMonitor_shell"]
-	path = secTools/AST_tools/MysqlMonitor_shell
-	url = https://github.com/0clickjacking0/MysqlMonitor.git
 [submodule "secTools/AST_tools/FileMonitor"]
 	path = secTools/AST_tools/FileMonitor
 	url = https://github.com/TheKingOfDuck/FileMonitor.git
@@ -541,9 +538,6 @@
 [submodule "secTools/AST_tools/ysoserial"]
 	path = secTools/AST_tools/ysoserial
 	url = https://github.com/frohoff/ysoserial.git
-[submodule "secTools/RequestTemplate"]
-	path = secTools/RequestTemplate
-	url = https://github.com/1n7erface/RequestTemplate.git
 [submodule "secTools/CaptfEncoder"]
 	path = secTools/CaptfEncoder
 	url = https://github.com/guyoung/CaptfEncoder.git
