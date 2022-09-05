@@ -541,3 +541,6 @@
 [submodule "secTools/CaptfEncoder"]
 	path = secTools/CaptfEncoder
 	url = https://github.com/guyoung/CaptfEncoder.git
+[submodule "secTools/woodpecker-framwork-release"]
+	path = secTools/woodpecker-framwork-release
+	url = https://github.com/woodpecker-framework/woodpecker-framwork-release
